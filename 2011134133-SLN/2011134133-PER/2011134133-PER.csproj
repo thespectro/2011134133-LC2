@@ -48,6 +48,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EntityTypeConfiguration\ATMConfiguration.cs" />
+    <Compile Include="EntityTypeConfiguration\BaseDatosConfiguration.cs" />
+    <Compile Include="EntityTypeConfiguration\CuentaConfiguration.cs" />
+    <Compile Include="EntityTypeConfiguration\DispensadorConfiguration.cs" />
+    <Compile Include="EntityTypeConfiguration\PantallaConfiguration.cs" />
+    <Compile Include="EntityTypeConfiguration\RanuraConfiguration.cs" />
+    <Compile Include="EntityTypeConfiguration\RetiroConfiguration.cs" />
+    <Compile Include="EntityTypeConfiguration\TecladoConfiguration.cs" />
     <Compile Include="LC2DbContext.cs" />
     <Compile Include="Migrations\201705180005452_initialmode.cs" />
     <Compile Include="Migrations\201705180005452_initialmode.Designer.cs">
@@ -80,9 +88,7 @@
       <DependentUpon>201705180005452_initialmode.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="EntityTypeConfiguration\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
