@@ -1,0 +1,83 @@
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.MVC.dll.config
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.MVC.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.MVC.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Antlr3.Runtime.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.SqlServer.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Newtonsoft.Json.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Common.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Mvc.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Helpers.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Mvc.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Optimization.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Razor.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\WebActivatorEx.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\WebGrease.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.SqlServer.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Common.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Mvc.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Helpers.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Mvc.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Optimization.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Razor.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Antlr3.Runtime.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\bin\Newtonsoft.Json.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\obj\Debug\CajeroAutomatico.MVC.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\obj\Debug\CajeroAutomatico.MVC.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.MVC\obj\Debug\CajeroAutomatico.MVC.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.MVC.dll.config
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.MVC.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.MVC.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Entities.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Persistance.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Common.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\WebActivatorEx.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\WebGrease.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Entities.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Persistance.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\CajeroAutomatico.Persistance.dll.config
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Common.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\obj\Debug\CajeroAutomatico.MVC.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\obj\Debug\CajeroAutomatico.MVC.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.MVC\obj\Debug\CajeroAutomatico.MVC.pdb

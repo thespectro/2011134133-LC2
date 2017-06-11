@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\2011134133-ENT.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.pdb

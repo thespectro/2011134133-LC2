@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Persistance.dll.config
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Persistance.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Persistance.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Entities.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Entities.pdb
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\2011134133-PER.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.Migrations.InitialModel.resources
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\2011134133-PER.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.dll
+C:\Users\PC\Desktop\2011134133-LC2\2011134133-LC2\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.pdb
